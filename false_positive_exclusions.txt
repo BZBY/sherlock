@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 Blogger
 CGTrader
-Carrd
 Championat
 Chatujme.cz
 ChaturBate
@@ -44,6 +43,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
