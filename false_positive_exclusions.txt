@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,12 +10,14 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Crowdin
 DeviantArt
 Discord.bio
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Google Play
 HackerNews
 Hashnode
 Houzz
@@ -46,6 +47,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -54,4 +56,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
