@@ -4,8 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -21,7 +19,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
