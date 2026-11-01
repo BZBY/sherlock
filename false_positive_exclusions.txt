@@ -10,6 +10,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -27,11 +28,13 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -45,3 +48,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
