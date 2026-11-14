@@ -2,9 +2,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +14,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -43,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+threads
