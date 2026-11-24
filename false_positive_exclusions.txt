@@ -1,5 +1,5 @@
-APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -17,6 +17,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pychess
 Rarible
 Realmeye
 Reddit
