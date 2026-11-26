@@ -3,11 +3,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -33,6 +33,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
@@ -44,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
